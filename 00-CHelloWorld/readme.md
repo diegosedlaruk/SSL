@@ -9,4 +9,4 @@
 + Enunciado:
 + Hipótesis del trabajo: 
 
-+ Versión del compilador: según definición de la variable "__STDC_VERSION__" es la versión C18, que corresponde a la lanzada en octubre del 2017
++ Versión del compilador: según definición de la variable "__STDC_VERSION__" es la versión C18.
