@@ -9,3 +9,4 @@
 + Enunciado:
 + Hipótesis del trabajo: 
 
++Version del compilador: __STDC_VERSION__ C18 que corresponde a la lanzada en octubre del 2017
